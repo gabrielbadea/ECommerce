@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Test Projects\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj": {}
+    "E:\\GitHubRepositories\\ECommerce\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Test Projects\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj": {
+    "E:\\GitHubRepositories\\ECommerce\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Test Projects\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj",
+        "projectUniqueName": "E:\\GitHubRepositories\\ECommerce\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj",
         "projectName": "MovieRecommender",
-        "projectPath": "E:\\Projects\\Test Projects\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj",
+        "projectPath": "E:\\GitHubRepositories\\ECommerce\\MovieRecommender\\MovieRecommender\\MovieRecommender.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Test Projects\\MovieRecommender\\MovieRecommender\\obj\\",
+        "outputPath": "E:\\GitHubRepositories\\ECommerce\\MovieRecommender\\MovieRecommender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
